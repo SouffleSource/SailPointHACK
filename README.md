@@ -16,10 +16,10 @@ Welcome to the SailPointHACK repository! This project is designed to help you ge
 - Install Visual Studio Code 
 - Install Python 3.13 
 >[!NOTE]
->If you'd like to get a headstart on some Python fundamentals try [this Codecademy course](https://www.codecademy.com/learn/learn-python-3).
+>If you'd like to get a head start on some Python fundamentals try [this Codecademy course](https://www.codecademy.com/learn/learn-python-3).
 - Install Postman 
 >[!NOTE]
->If you'd like to get a headstart on Postman follow [this tutorial](https://www.youtube.com/watch?v=sNnFyLMWgyw).
+>If you'd like to get a head start on Postman follow [this tutorial](https://www.youtube.com/watch?v=sNnFyLMWgyw).
 - License for Github CoPilot
 - Think of something that would make your job easier when SailPoint is Live. Don't worry if it sounds complex because we can always focus on one part of it on the day then develop the rest of it outside the hackathon. 
  
