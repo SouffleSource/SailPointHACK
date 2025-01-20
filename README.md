@@ -7,12 +7,16 @@ Welcome to the SailPointHACK repository! This project is designed to help you ge
 - **api_connection.py**: Contains functions to obtain access tokens and create connection headers.
 - **me.py**: Script to find and retrieve identity information based on the provided first and last name.
 - **.env**: Environment variables for API credentials and base URL.
+>[!NOTE]
+> `.env` files are used to store environment variables in key-value pairs for applications, helping manage configuration settings without hardcoding them into source code. They enhance security by keeping sensitive information like API keys and database credentials out of version control systems
 - **README.md**: Project documentation.
 
 ## Prerequisites for Hackathon
 
 - Install Visual Studio Code 
 - Install Python 3.13 
+>[!NOTE]
+>If you'd like to get a headstart on some Python fundamentals try [this Codecademy course](https://www.codecademy.com/learn/learn-python-3).
 - Install Postman 
 - License for Github CoPilot
 - Think of something that would make your job easier when SailPoint is Live. Don't worry if it sounds complex because we can always focus on one part of it on the day then develop the rest of it outside the hackathon. 
